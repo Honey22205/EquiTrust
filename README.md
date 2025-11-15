@@ -1,13 +1,15 @@
 
-# 🤖 EquiTrust AI Framework
-
 <div align="center">
 
-**A Human-Centric AI Governance & Customer Control Platform for Modern Banking.**
+# EquiTrust AI Framework 🤖
 
-</div>
+### _Your Bank's AI, Explained. Your Data, Your Control._
 
-<div align="center">
+<br />
+
+**Made with ❤️ by Honey Priya**
+
+<br />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![React Version](https://img.shields.io/badge/react-19-blue?logo=react)](https://react.dev/)
@@ -18,108 +20,67 @@
 
 ---
 
-EquiTrust AI is a revolutionary prototype designed to solve the "black box" problem in financial AI. It provides a transparent, explainable, and user-controlled framework that builds trust between customers and financial institutions. This application simulates a retail loan process, demonstrating how a bank can deploy AI responsibly while empowering its customers.
+In a world powered by algorithms, the biggest question is: **Can we trust them?** Especially with something as important as our finances. EquiTrust AI was born from this question. It’s not just another app; it’s a vision for a future where financial AI is transparent, fair, and puts the customer, *you*, back in control.
 
-## ✨ Live Demo & Screenshots
+This prototype demonstrates how a modern bank can build a bridge of trust with its customers, turning the AI "black box" into a clear, interactive, and human-centric experience.
 
-_Here you can add GIFs or screenshots of the live application._
+## ✨ A Glimpse into the Future of Banking
+
+_**Note:** To add your own screenshots, simply take a picture of the app and replace the `https://placehold.co/...` links below!_
 
 <table>
   <tr>
-    <td align="center"><strong>🔑 Secure Authentication</strong></td>
-    <td align="center"><strong>📝 Interactive Loan Simulator</strong></td>
+    <td align="center"><strong>🔑 Secure & Welcoming Login</strong></td>
+    <td align="center"><strong>📝 An Interactive AI Simulator</strong></td>
   </tr>
   <tr>
-    <td><img src="https://via.placeholder.com/400x300.png?text=Login+%26+Sign-Up+Screen" alt="Authentication Screen" /></td>
-    <td><img src="https://via.placeholder.com/400x300.png?text=Loan+Application+Form" alt="Loan Application Form" /></td>
+    <td><img src="https://placehold.co/600x400/e2e8f0/334155?text=Secure+Login+Screen" alt="Authentication Screen" /></td>
+    <td><img src="https://placehold.co/600x400/e2e8f0/334155?text=Loan+Application+Form" alt="Loan Application Form" /></td>
   </tr>
     <tr>
-    <td align="center"><strong>💡 AI Decision & Explanation</strong></td>
-    <td align="center"><strong>🎛️ Customer Data Control</strong></td>
+    <td align="center"><strong>💡 Clear Decisions, Simply Explained</strong></td>
+    <td align="center"><strong>🎛️ Your Data, Your Rules</strong></td>
   </tr>
    <tr>
-    <td><img src="https://via.placeholder.com/400x300.png?text=Decision+View+with+Chart" alt="AI Decision View" /></td>
-    <td><img src="https://via.placeholder.com/400x300.png?text=Data+Control+Panel" alt="Data Control Panel" /></td>
+    <td><img src="https://placehold.co/600x400/e2e8f0/334155?text=AI+Decision+View" alt="AI Decision View" /></td>
+    <td><img src="https://placehold.co/600x400/e2e8f0/334155?text=Data+Control+Panel" alt="Data Control Panel" /></td>
   </tr>
 </table>
 
-## Core Features: The Three Pillars
+## The Three Pillars of Trust 🏛️
 
-EquiTrust AI is built on three foundational principles to ensure fairness and transparency.
+EquiTrust AI is built on three foundational principles to ensure fairness, transparency, and user empowerment.
 
-### 🎯 1. Explainability-First Engine (XFE)
-The XFE demystifies AI decisions. Instead of just giving an outcome, it provides clear, human-readable explanations and visual feedback.
+### 💡 1. Explainability-First Engine (XFE)
+We turn confusion into clarity. The XFE demystifies every AI decision so you're never left in the dark.
+*   **Simple Explanations:** Get plain-English reasons for every decision, not confusing jargon.
+*   **Interactive Chart:** Hover over our visual chart to see exactly how each of your financial factors (like credit score) impacted the outcome.
+*   **Positive Feedback:** We even added a happy little sound for loan approvals to make the experience more human and rewarding!
 
-*   **Natural Language Explanations:** Get simple, conversational text explaining the *why* behind every approval, denial, or referral.
-*   **Interactive Visuals:** A dynamic bar chart shows the positive and negative impact of each financial factor, with tooltips for granular detail.
-*   **Approval Sound:** A subtle, positive audio cue plays upon loan approval to enhance user experience.
-
-###  empowers users with granular control over their personal data. What you share is your choice, and the AI's behavior adapts in real-time.
-
-*   **Granular Consent Toggles:** Easily enable or disable the AI's access to specific data points like income or spending habits.
-*   **"Explain My AI Profile" Button:** Get a real-time assessment of how the AI perceives your financial profile based on your current consent settings.
+### 🎛️ 2. Decentralized Control Interface (DCI)
+This is your data dashboard. You have the power to choose what the AI knows, and you can see how your choices change its perspective in real-time.
+*   **Easy-to-Use Toggles:** With a simple click, you can allow or deny the AI's access to your income, spending habits, and more.
+*   **"Explain My AI Profile":** Curious how the AI sees you? This button gives you a snapshot of your AI-generated financial profile based on the data you've shared.
 
 ### 📋 3. Audit & Fairness Log (AFL)
-The AFL provides an immutable, transparent record of every decision made by the AI, designed for internal governance and regulatory oversight.
+For total transparency, the AFL creates an unchangeable record of every single decision. It’s our commitment to accountability, designed for both internal teams and external regulators.
+*   **Immutable Record:** Every decision is logged with a timestamp, the data used, and the explanation given.
+*   **Bias Check Simulation:** We've included a simulated "Bias Check" for every entry, showing our dedication to building fair and ethical AI.
 
-*   **Immutable Logging:** Every transaction is recorded with a timestamp, customer ID, inputs, decision, and the AI's explanation.
-*   **Bias Check Simulation:** Each entry includes a simulated "Bias Check" result, showcasing a commitment to fairness.
-*   **Expandable Details:** A clean, tabular view allows regulators to easily drill down into the specifics of any transaction.
+## 🏆 Our Hackathon Vision
+
+For this hackathon, we wanted to tackle a real-world problem: the growing distrust in AI. EquiTrust isn't just code; it's a conversation starter. It's our proposal for how companies can implement AI ethically, prioritizing the user experience and building a foundation of trust that is crucial for the future of technology.
 
 ## 🛠️ Technology Stack
 
-*   **Frontend:** React 19, TypeScript, Tailwind CSS
-*   **AI Simulation:** All AI logic, including the loan decision model and customer profile analysis, is simulated on the client-side using TypeScript.
-*   **UI/UX:** Designed with a focus on a warm, reassuring, and minimalist aesthetic to build user trust.
+*   **Frontend:** Built with the latest **React 19**, **TypeScript**, and styled with **Tailwind CSS**.
+*   **AI Simulation:** All AI logic is simulated directly in the browser using TypeScript—no server needed! This makes the demo fast, responsive, and easy to run anywhere.
 
-## 🚀 Getting Started
+## 🚀 How to Run It
 
-Follow these instructions to get the project up and running on your local machine.
+This project is designed for simplicity. No complex setup required!
 
-### Prerequisites
+1.  **Open `index.html`:** Just open the `index.html` file in any modern web browser.
+2.  **That's It!** The app will load and run instantly. The `importmap` handles all the magic of loading the necessary libraries.
 
-*   A modern web browser (Chrome, Firefox, Safari, Edge)
-*   No other dependencies are needed as this is a client-side simulation running on an external platform.
-
-### Running the Application
-
-This project is built to run in a specific web-based development environment that handles dependencies via an `importmap`.
-
-1.  **Load the Project:** Ensure all files (`index.html`, `index.tsx`, etc.) are in the same directory.
-2.  **Serve `index.html`:** Open the `index.html` file in your browser. The application should start automatically. The script tag `type="module"` and the import map will handle loading all necessary dependencies.
-
-## 📂 Project Structure
-
-```
-/
-├── components/
-│   ├── Auth.tsx
-│   ├── AuditLogView.tsx
-│   ├── ControlPanel.tsx
-│   ├── DecisionView.tsx
-│   ├── Header.tsx
-│   ├── icons.tsx
-│   └── LoanApplicationForm.tsx
-├── services/
-│   └── aiService.ts
-├── App.tsx
-├── index.html
-├── index.tsx
-├── metadata.json
-├── types.ts
-└── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions for improving the EquiTrust AI Framework, please feel free to fork the repository and submit a pull request.
-
-1.  **Fork** the project.
-2.  Create your **Feature Branch** (`git checkout -b feature/AmazingFeature`).
-3.  **Commit** your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  **Push** to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a **Pull Request**.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+Thank you for exploring the EquiTrust AI Framework. Let's build a more transparent future, together.
