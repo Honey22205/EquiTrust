@@ -1,15 +1,17 @@
-# 🎉 **EquiTrust AI Framework**  
-### ⚡ Humanized • Transparent • Auditable • AI-Driven Financial Decisioning  
+#  **EquiTrust AI Framework**  
+### EquiTrust AI: Intelligent Approval. Equitable Future. 
 
 <div align="center">
-  <img src="https://placehold.co/1600x500/0f172a/dbeafe?text=EquiTrust+AI+Framework" alt="EquiTrust Banner"/>
+  <!-- <img src="https://placehold.co/1600x500/0f172a/dbeafe?text=EquiTrust+AI+Framework" alt="EquiTrust Banner"/> -->
+  <img width="524" height="524" alt="image" src="https://github.com/user-attachments/assets/821c6dda-7efb-4ced-bf75-e5971de928a3" />
+
 </div>
 
 <br/>
 
 ---
 
-# 🌈 **✨ Welcome to EquiTrust AI — The Future of Trustworthy Banking ✨**
+#  **✨ Welcome to EquiTrust AI — The Future of Trustworthy Banking ✨**
 
 EquiTrust AI Framework is a **full-stack, humanized, explainable, and regulator-ready** financial decisioning system, built right in your browser.  
 
@@ -26,7 +28,9 @@ This is a **live, working prototype** demonstrating:
 ---
 
 <div align="center">
-  <img src="https://placehold.co/1200x600/1e293b/dbeafe?text=A+Warm,+Human-Centered+AI+Experience" width="90%" />
+ <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b867f07-9fce-432b-b778-1fbdf3bdbb6c" />
+
+
 </div>
 
 ---
@@ -125,7 +129,8 @@ Simply open the `index.html` file in any modern web browser.
 - The perfect, trustworthy front door to the application.
 
 <div align="center">
-  <img src="https://placehold.co/1000x600/1e293b/dbeafe?text=Login+Screen" width="90%" />
+  <img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/224263aa-6dad-43ff-9af2-c2ec187653c7" />
+
 </div>
 
 ---
@@ -136,7 +141,8 @@ Simply open the `index.html` file in any modern web browser.
 - “We’ll help guide you” messaging throughout.
 
 <div align="center">
-  <img src="https://placehold.co/1000x600/1e293b/dbeafe?text=Loan+Application+Form" width="90%" />
+ <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/996ba4e5-57d8-428a-86ca-852414d6a899" />
+
 </div>
 
 ---
@@ -147,7 +153,9 @@ Simply open the `index.html` file in any modern web browser.
 - An interactive chart showing exactly how each factor helped or hurt.
 
 <div align="center">
-  <img src="https://placehold.co/1000x600/1e293b/dbeafe?text=Decision+View+with+Chart" width="90%" />
+  <img width="1531" height="945" alt="image" src="https://github.com/user-attachments/assets/8d4bf236-ee79-4c4a-bc2b-3ba6e1bba282" />
+
+
 </div>
 
 ---
@@ -156,6 +164,9 @@ Simply open the `index.html` file in any modern web browser.
 - **Your Data. Your Control.**
 - Simple, clear toggle switches for every piece of data the AI can use.
 - An **"Explain My AI Profile"** button that translates the AI's internal assessment of you into plain English.
+  <img width="1725" height="959" alt="image" src="https://github.com/user-attachments/assets/d8016c6e-71b4-4d3f-8153-6154ba3f877f" />
+
+
 
 ---
 
@@ -209,16 +220,6 @@ Every simulation is logged immutably in the "Regulator Log" view. This demonstra
   "biasCheckResult": true
 }
 ```
----
-
-# 📊 **Screenshots & Walkthrough**
-
-<div align="center">
-  <img src="https://placehold.co/1000x500/0f172a/dbeafe?text=App+Walkthrough+GIF" width="90%" />
-  <p><i>Replace this with a GIF of the app in action!</i></p>
-</div>
-
----
 
 # 🤝 **Creator**
 
